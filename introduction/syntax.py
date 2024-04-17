@@ -21,3 +21,11 @@ if 5 > 2:
 if 5 > 2:
     print("Five is greater than two!")
     print("Five is greater than two!")
+    
+# Python Variables
+# In Python, variables are created when you assign a value to it:
+
+x = 5
+y = "Hello, World!"
+
+# Python has no command for declaring a variable.
