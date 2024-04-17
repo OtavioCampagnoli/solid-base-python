@@ -13,4 +13,8 @@ Concept's Learned:
   - Indentation (very important);
   - Use comments;
   - Variables;
-  - Variables Names.
+  - Variables Names:
+    - Multi Words:
+      - Pascal Case;
+      - Camel Case;
+      - Snake Case.
