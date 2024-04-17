@@ -12,4 +12,5 @@ Concept's Learned:
 - Basic Syntax:
   - Indentation (very important);
   - Use comments;
-  - Variables.
+  - Variables;
+  - Variables Names.
