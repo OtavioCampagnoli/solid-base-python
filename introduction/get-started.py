@@ -13,3 +13,12 @@ print("My name is Otavio Campagnoli, thanks to interpret me!")
 
 # cd ./introduction
 # python get-started.py
+
+# Python Version
+# To check the Python version of the editor, you can find it by importing the sys module:
+
+import sys
+
+print(sys.version) # 3.12.2 (main, Feb 21 2024, 00:00:00) [GCC 13.2.1 20231205 (Red Hat 13.2.1-6)]
+# output:
+# My name is Otavio Campagnoli, thanks to interpret me!
