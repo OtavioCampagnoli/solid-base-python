@@ -36,4 +36,19 @@ print(z)
 
 print(type(a)) # <class 'str'>
 print(type(b)) # <class 'int'>
-print(type(z)) # <class 'float'> 
+print(type(z)) # <class 'float'>
+
+# Single or Double Quotes?
+# String variables can be declared either by using single or double quotes:
+
+name = "Otavio"
+# is the same as
+name = 'Otavio'
+
+# Case-sensitive
+
+# Variable names are case-sensitive.
+
+a = 4
+A = "Otavio"
+# A will not overwrite a
