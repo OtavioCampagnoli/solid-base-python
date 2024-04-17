@@ -17,3 +17,13 @@ a = b = c = "Orange"
 print("\n" + a)
 print(b)
 print(c)
+
+# Unpack a Collection
+# If you have a collection of values in a list, tuple etc.
+# Python allows you to extract the values into variables. This is called unpacking.
+
+names = ["Otavio", "Henrique", "Sophie"]
+x, y, z = names
+print(x)
+print(y)
+print(z)
