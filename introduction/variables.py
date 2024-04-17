@@ -30,3 +30,10 @@ z = float(3.3)
 print(a)
 print(b)
 print(z)
+
+# Get the Type
+# You can get the data type of a variable with the type() function.
+
+print(type(a)) # <class 'str'>
+print(type(b)) # <class 'int'>
+print(type(z)) # <class 'float'> 
