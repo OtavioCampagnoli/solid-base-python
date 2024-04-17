@@ -19,3 +19,14 @@ x = "Campagnoli" # x is now of type str
 print(x)
 y = 10
 print(y)
+
+# Casting
+# If you want to specify the data type of a variable, this can be done with casting.
+
+a = str(21)
+b = int(10)
+z = float(3.3)
+
+print(a)
+print(b)
+print(z)
