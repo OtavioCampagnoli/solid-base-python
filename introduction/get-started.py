@@ -22,3 +22,20 @@ import sys
 print(sys.version) # 3.12.2 (main, Feb 21 2024, 00:00:00) [GCC 13.2.1 20231205 (Red Hat 13.2.1-6)]
 # output:
 # My name is Otavio Campagnoli, thanks to interpret me!
+
+# The Python Command Line
+# To test a short amount of code in python sometimes it is quickest and easiest not to write the code in a file. This is made possible because Python can be run as a command line itself.
+
+# Type the following on the Windows, Mac or Linux command line:
+
+
+#python or py
+
+# python
+# Python 3.12.2 (main, Feb 21 2024, 00:00:00) [GCC 13.2.1 20231205 (Red Hat 13.2.1-6)] on linux
+# Type "help", "copyright", "credits" or "license" for more information.
+# >>> print("Hello, world!")
+# Hello, world!
+# >>> 
+
+# use exit() to quit the python command line interface
