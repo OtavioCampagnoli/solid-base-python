@@ -1,0 +1,30 @@
+"Nome do Projeto";"Descrição";"Funcionalidades"
+"Automatizador de Tarefas Simples";"Script para automatizar tarefas diárias como organizar arquivos por tipo, mover arquivos de uma pasta para outra e limpar a área de trabalho.";"- Organizar arquivos por tipo
+- Mover arquivos entre pastas
+- Limpar área de trabalho"
+"Manipulador de CSV";"Programa para ler, filtrar, ordenar e exportar dados de arquivos CSV.";"- Ler arquivo CSV
+- Filtrar dados
+- Ordenar dados
+- Exportar para CSV ou banco de dados"
+"Conversor de Formatos de Arquivos";"Ferramenta para converter arquivos entre diferentes formatos como CSV para Excel, JSON para XML, etc.";"- Converter CSV para Excel
+- Converter JSON para XML
+- Outros formatos conforme necessário"
+"Automatizador de Emails";"Script para enviar emails automaticamente para uma lista de contatos.";"- Enviar emails personalizados
+- Anexar arquivos
+- Gerenciar lista de contatos"
+"Web Scraper";"Web scraper para coletar dados de sites e armazená-los em um arquivo CSV.";"- Coletar dados de páginas web
+- Armazenar em CSV
+- Respeitar termos de serviço e privacidade"
+"Gerador de Relatórios a partir de Dados";"Programa para ler dados de arquivos CSV ou Excel e gerar relatórios em PDF ou HTML.";"- Ler arquivo CSV ou Excel
+- Gerar relatório em PDF ou HTML
+- Incluir gráficos e estatísticas"
+"Automatizador de Downloads";"Script para fazer o download automático de arquivos de um site ou link específico.";"- Baixar arquivos de sites ou links
+- Organizar downloads"
+"Sistema de Backup Automatizado";"Programa para fazer backups automáticos de arquivos importantes.";"- Fazer backups automáticos
+- Armazenar em dispositivo externo ou nuvem"
+"Monitoramento de Pastas";"Script para monitorar uma pasta e executar ações quando novos arquivos são adicionados.";"- Monitorar pasta específica
+- Enviar notificações
+- Executar ações (compressão, upload)"
+"Dashboard de Tarefas Diárias";"Painel para gerenciar tarefas diárias com opção de adicionar, editar e marcar como concluídas.";"- Adicionar, editar e excluir tarefas
+- Marcar tarefas como concluídas
+- Notificações"
