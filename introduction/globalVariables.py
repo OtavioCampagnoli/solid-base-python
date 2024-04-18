@@ -23,3 +23,29 @@ def myFuncTwo():
 myFuncTwo()
 
 print(x)
+
+# The global Keyword
+# Normally, when you create a variable inside a function, that variable is local, and can only be used inside that function.
+
+# To create a global variable inside a function, you can use the global keyword.
+
+# example
+
+# if you want to create a global variable in a function, you can be use the global keyword
+
+def testFunction():
+    global y 
+    y = "Testing"
+
+testFunction()
+
+print("I'm: " + y)
+
+# if you want to change the value off a global variable created, you can use the keyword global nameVariable you want to change the value
+
+def myAnotherTest():
+    global x
+    x = "Campagnoli"
+    print("My Name is:" + x)
+    
+myAnotherTest()
